@@ -30,7 +30,7 @@ python-dateutil==2.4.0
 #https://bitbucket.org/fcurella/django-timedelta-field/get/py3k.zip
 django-timedeltafield==0.7.3
 
-requests==2.5.1
+requests==2.20
 
 #git+https://github.com/bradjasper/django-jsonfield.git@b346fd7
 django-jsonfield==0.9.13
